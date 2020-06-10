@@ -16,3 +16,5 @@ P5 link: https://editor.p5js.org/vasilenastmv/sketches/pDLci0qpe
 
 # Project 3 - Recursion
 P5 link: https://editor.p5js.org/vasilenastmv/sketches/LAhh8pEWN
+
+<img width="397" alt="recursion_screenshot" src="https://user-images.githubusercontent.com/62107988/84315543-7f626e00-ab72-11ea-8d72-81009af1f537.png">
