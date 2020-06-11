@@ -31,3 +31,7 @@ This is another interactive sketch with trigonometric wave represented through t
 
 <img width="384" alt="Trigonometry screenshot" src="https://user-images.githubusercontent.com/62107988/84365804-a94f7b00-abda-11ea-84d5-cc69881ea790.png">
 
+# Project 5 - Generative images using pixels
+P5 link: https://editor.p5js.org/vasilenastmv/present/8yiVjxVhY
+
+In this sketch I have pixelated an image by breaking it donw into small black and white rectangles by remapping the values from one range to another.
