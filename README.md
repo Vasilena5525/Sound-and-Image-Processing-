@@ -21,3 +21,6 @@ P5 link: https://editor.p5js.org/vasilenastmv/present/LAhh8pEWN
 
 # Project 4 - Trigonometry (sin & cos)
 P5 link: https://editor.p5js.org/vasilenastmv/present/BFqkonmqh
+
+<img width="384" alt="Trigonometry screenshot" src="https://user-images.githubusercontent.com/62107988/84365804-a94f7b00-abda-11ea-84d5-cc69881ea790.png">
+
