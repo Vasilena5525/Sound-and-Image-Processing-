@@ -27,7 +27,7 @@ This is an interactive sketch which shows all the stages of recursion. When you 
 # Project 4 - Trigonometry (sin & cos)
 P5 link: https://editor.p5js.org/vasilenastmv/present/BFqkonmqh
 
-This is another interactive sketch with trigonometric wave represented through a text. When you point your mouse towards the text you can see how the wave changes. I have also used rotating sin and cos circles to form a halo on top of the text.
+This is another interactive sketch with trigonometric wave represented through text. When you point your mouse towards the text you can see how the wave changes. I have also used rotating sin and cos circles to form a halo on top of the text.
 
 <img width="384" alt="Trigonometry screenshot" src="https://user-images.githubusercontent.com/62107988/84365804-a94f7b00-abda-11ea-84d5-cc69881ea790.png">
 
